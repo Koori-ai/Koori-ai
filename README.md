@@ -70,10 +70,10 @@ I'm a results-driven AI/ML Delivery Leader and Cybersecurity Consultant with **1
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koori-ai&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koori-ai&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
