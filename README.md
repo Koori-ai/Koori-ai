@@ -68,15 +68,6 @@ I'm a results-driven AI/ML Delivery Leader and Cybersecurity Consultant with **1
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koori-ai&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🌐 Let's Connect
 
