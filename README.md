@@ -8,7 +8,7 @@ I'm a results-driven AI/ML Delivery Leader and Cybersecurity Consultant with **1
 
 ### 🔹 About Me
 
-- 🏢 Currently at **Booz Allen Hamilton**
+- 🏢 Currently at **RELIGroupInc**
 - 🎯 Expertise spans **AI/ML, NLP, Computer Vision, Cloud Security, and Zero Trust Architecture**
 - 🔐 Deep focus on designing **secure, scalable, and data-centric solutions** that drive business value
 - 🏛️ Experience with **IBM** and **Federal Intelligence Communities**
