@@ -1,4 +1,4 @@
-# Hi, I'm Susheela Ganesan 👋
+# Hi, I'm Susheela Ganesan 
 
 **AI/ML Delivery Leader | Cybersecurity Strategist | SAFe Agile Program Leader | Responsible AI Advisor**
 
@@ -8,15 +8,15 @@ I'm a results-driven AI/ML Delivery Leader and Cybersecurity Consultant with **1
 
 ### 🔹 About Me
 
-- 🏢 Currently at **RELIGroupInc**
-- 🎯 Expertise spans **AI/ML, NLP, Computer Vision, Cloud Security, and Zero Trust Architecture**
-- 🔐 Deep focus on designing **secure, scalable, and data-centric solutions** that drive business value
-- 🏛️ Experience with **IBM** and **Federal Intelligence Communities**
-- 🎓 **MCA** (Computers) & **M.Com** (Accounting & Finance) – University of Madras
+-  Currently at **Barbaricum LLc**
+-  Expertise spans **AI/ML, NLP, Computer Vision, Cloud Security, and Zero Trust Architecture**
+-  Deep focus on designing **secure, scalable, and data-centric solutions** that drive business value
+-  Experience with **IBM** and **Federal Intelligence Communities**
+-  **MCA** (Computers) & **M.Com** (Accounting & Finance) – University of Madras
 
 ---
 
-### 🏆 Certifications
+###  Certifications
 
 | Certification | Issuer |
 |---------------|--------|
@@ -26,18 +26,20 @@ I'm a results-driven AI/ML Delivery Leader and Cybersecurity Consultant with **1
 | **AWS ML Specialty** | Amazon Web Services |
 | **SAFe® 4 Scrum Master** | Scaled Agile, Inc. |
 | **AI Consultant Expert** | Booz Allen Hamilton |
-| **Data Science Professional** | Coursera |
+| **Data Science Professional** | IBM |
+| Oracle GenAI Certified | Oracle |
+| Nvidia GenAI Certified | NVidia |
 
 ---
 
-### 🔬 Current Focus Areas
+###  Current Focus Areas
 
 ```
-🛡️ Zero Trust Security + AI Integration
-🤖 LLM Agents & MCP Implementations  
-📊 RAG-Powered Applications
-🔒 Responsible AI & Governance
-☁️ Cloud Security Architecture
+ Zero Trust Security + AI Integration
+ LLM Agents & MCP Implementations  
+ RAG-Powered Applications
+ Responsible AI & Governance
+ Cloud Security Architecture
 ```
 
 ---
